@@ -6,7 +6,7 @@ created: 2026-05-15
 - Detail-oriented
 - Philosophical
 ### Values
->[!question]+ When I date, what do I want that relationship to look like?
+>[!QUESTION]+ When I date, what do I want that relationship to look like?
 #### Faith
 - Motivates compassion
 ## Things I love
