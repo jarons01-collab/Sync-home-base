@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"15162f1b477abd13","x":-10,"y":-220,"width":400,"height":400,"type":"file","file":"1+1=1/Nauvoo River Lodge.md"},
+		{"id":"9a3ccf5aaf5e2a0e","type":"file","file":"Examples/Eiffel Tower.md","x":-440,"y":-220,"width":400,"height":400,"color":"1"},
+		{"id":"877304c4afe66b81","type":"text","text":"","x":-365,"y":-380,"width":250,"height":60},
+		{"id":"373cf59888b1e6e9","type":"text","text":"What is going on here?","x":-60,"y":240,"width":250,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"9acc5e13b5fb0a5d","fromNode":"373cf59888b1e6e9","fromSide":"bottom","toNode":"9a3ccf5aaf5e2a0e","toSide":"bottom","color":"6"},
+		{"id":"549d5a0752baef6f","fromNode":"877304c4afe66b81","fromSide":"bottom","toNode":"9a3ccf5aaf5e2a0e","toSide":"top"}
+	]
+}
