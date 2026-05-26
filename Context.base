@@ -1,19 +1,4 @@
 views:
-  - type: map
-    name: Map
-    filters:
-      and:
-        - file.tags.contains("places")
-    order:
-      - file.name
-      - coordinates
-      - color
-      - icon
-      - tags
-    center: "[0,0]"
-    markerIcon: note.icon
-    markerColor: note.color
-    coordinates: note.coordinates
   - type: calendar
     name: Calendar
     filters:
@@ -32,6 +17,10 @@ views:
       and:
         - '!file.path.contains("Attachments")'
         - '!file.name.contains("_")'
+    order:
+      - file.name
+      - categories
+      - tags
   - type: cards
     name: Contacts
     filters:
@@ -40,3 +29,18 @@ views:
         - '!file.name.startsWith("_")'
         - categories.contains(link("contacts"))
     image: note.image-id
+  - type: map
+    name: Old map
+    filters:
+      and:
+        - file.tags.contains("places")
+    order:
+      - file.name
+      - coordinates
+      - color
+      - icon
+      - tags
+    center: "[0,0]"
+    markerIcon: note.icon
+    markerColor: note.color
+    coordinates: note.coordinates
