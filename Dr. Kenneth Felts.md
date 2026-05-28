@@ -9,6 +9,7 @@ aliases:
 phone:
   - 573-875-7567
 email:
+  - krfelts@ccis.edu
 image-id: "[[kenny-felts-thumb.jpg]]"
 ---
 ### Bio
