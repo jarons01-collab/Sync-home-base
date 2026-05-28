@@ -1,11 +1,11 @@
 ---
 created: 2026-05-13
-z-id: 202605130708
 tags:
-  - 0🌲
   - journal
+  - 0🌲
 aliases:
   - Remember the Lord
+z-id: 202605130708
 ---
 1. <progress max="10", value="1"></progress> My birthday
 2. <progress max="10" value="9"></progress> Breakfast last Saturday

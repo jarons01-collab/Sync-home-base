@@ -6,7 +6,7 @@ scaffold: scene
 ### Ext. Front porch - day
 We see
 >**Oliver:**
->You would think he'd ave answered the door by now. Did you knock?
+>You would think he'd have answered the door by now. Did you knock?
 
 >**Aris:**
 >I'm not going with a date, I'm going with my best friend Callie.

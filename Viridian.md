@@ -12,6 +12,7 @@ scaffold: character
 
 ## Appearance
 - Everyday outfit:
+	- In 1st scene: Light hoodie and miniskirt
 - Tech carried:
 
 ## Personality & Behavior

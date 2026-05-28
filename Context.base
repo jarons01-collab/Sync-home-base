@@ -1,4 +1,14 @@
 views:
+  - type: table
+    name: All notes
+    filters:
+      and:
+        - '!file.path.contains("Attachments")'
+        - '!file.name.contains("_")'
+    order:
+      - file.name
+      - categories
+      - tags
   - type: calendar
     name: Calendar
     filters:
@@ -11,16 +21,6 @@ views:
     startDate: note.startDate
     endDate: note.endDate
     weekStartDay: sunday
-  - type: table
-    name: All notes
-    filters:
-      and:
-        - '!file.path.contains("Attachments")'
-        - '!file.name.contains("_")'
-    order:
-      - file.name
-      - categories
-      - tags
   - type: cards
     name: Contacts
     filters:

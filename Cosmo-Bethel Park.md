@@ -7,4 +7,6 @@ tags:
 icon: trees
 color: green
 plus-code: WM34+77 Columbia, Missouri
+in:
+  - Columbia, MO
 ---

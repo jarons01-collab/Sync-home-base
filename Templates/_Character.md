@@ -30,4 +30,3 @@ scaffold: character
 
 ## Scenes
 - Linked scenes:
-![[Scene Directory.base]]

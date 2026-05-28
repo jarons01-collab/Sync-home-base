@@ -2,6 +2,7 @@
 categories:
   - "[[Events]]"
 tags:
+  - deleted
 cal-type: Blank
 startDate: 2026-05-07T13:00:00
 endDate: 2025-05-07T15:00:00

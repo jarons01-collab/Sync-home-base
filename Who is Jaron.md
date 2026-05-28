@@ -1,4 +1,6 @@
 ---
+tags:
+  - 0🌲
 created: 2026-05-15
 ---
 ## Things I am
@@ -6,7 +8,7 @@ created: 2026-05-15
 - Detail-oriented
 - Philosophical
 ### Values
->[!QUESTION]+ When I date, what do I want that relationship to look like?
+>[!question]+ When I date, what do I want that relationship to look like?
 #### Faith
 - Motivates compassion
 ## Things I love
@@ -19,3 +21,4 @@ created: 2026-05-15
 ## Things I want
 ### Things I aspire to
 - [[Self-reliance]]
+- Mentoring, Teaching, or Training

@@ -3,6 +3,8 @@ categories:
   - "[[projects]]"
 tags:
   - outline
+in:
+  - "[[Who should finish the job]]"
 ---
 ### Characters
 - [ ] **[[Viridian]]**, the heroine, who adapts to a certain physiological condition that causes her to experience orgasm persistently, regardless of context.

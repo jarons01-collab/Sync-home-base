@@ -7,4 +7,6 @@ tags:
 icon: church
 color: "#1279a5"
 plus-code: VJXR+V3 Columbia, Missouri
+in:
+  - Columbia, MO
 ---

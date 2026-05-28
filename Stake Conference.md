@@ -23,7 +23,7 @@ busy: true
 		- High Priests
 	- Release of Stake Presidency
 	- Presentation of General Authorities and General Officers of the church
-	- Calling and sustaining of new Stake Presidency by Elder Alvarado
+	- Calling and sustaining of new Stake Presidency by Elder Alvarado:
 - Primary Speaker
 - Youth Speaker
 - Testimonies of previous Stake Presidency
