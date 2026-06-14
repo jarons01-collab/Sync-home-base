@@ -1,0 +1,26 @@
+filters:
+  and:
+    - file.tags.contains("places")
+views:
+  - type: map
+    name: Columbia
+    filters:
+      and:
+        - in.contains("Columbia, MO")
+    center: ""
+    coordinates: note.coordinates
+    markerIcon: note.icon
+    markerColor: note.color
+  - type: map
+    name: Campus
+    filters:
+      and:
+        - categories.contains(link("School"))
+    coordinates: note.coordinates
+    markerIcon: note.icon
+    markerColor: note.color
+  - type: table
+    name: List view
+    order:
+      - file.name
+      - in
